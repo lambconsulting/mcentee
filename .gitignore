@@ -1,0 +1,8 @@
+# Exclusions
+archive
+*.log
+correspondence
+writing
+output/*.pdf
+intput/*.pdf
+code/*.pdf
